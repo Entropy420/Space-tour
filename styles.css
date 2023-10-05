@@ -34,6 +34,7 @@ body {
   width: 200px;
 }
 .btn {
+  scale: 0.7;
   background-color: rgb(152, 35, 241);
   font-family: inherit;
   font-weight: bold;
