@@ -17,14 +17,14 @@ body {
 } */
 
 #main {
-  scale: 135% 135%;
+  transform: scale(180%);
   text-shadow: 0px 0px 4px black;
   background-image: url("Images/giphy.gif");
   background-size: 300px 280px;
   /* border: 2px dashed red; */
   max-width: 600px;
   padding-bottom: 5rem;
-  margin: 4rem auto;
+  margin: 7rem auto;
 }
 
 #x-logo {
